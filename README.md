@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=016fd2&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=016fd2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Isaac+Soares;I'm+20+years+old;I+am+from+Rio+de+Janeiro,+RJ;I+study+computer+science+at+IBMR;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=016fd2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Isaac+Soares;I'm+20+years+old;I+am+from+Rio+de+Janeiro,+RJ;I+study+Computer+Science+at+IBMR;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isoares14&show_icons=true&count_private=true&hide_border=true&title_color=016fd2&icon_color=016fd2&text_color=c9d1d9&bg_color=0d1117" alt="Isaac Soares github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isoares14&layout=compact&hide_border=true&title_color=016fd2&text_color=016fd2&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isoares14&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isoares14&bg_color=000000&color=016fd2&line=0077e9&point=84beff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
@@ -41,7 +41,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{isoares14}/count.svg" /></p> 
 <br></div>
 
 
