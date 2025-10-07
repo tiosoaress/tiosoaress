@@ -71,5 +71,5 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 
 #
 
-![Snake animation](https://github.com/tiosoaress/tiosoaress/blob/output/github-contribution-grid-snake.svg)](https://github.com/tiosoaress/t/blob/main/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/tiosoaress/t/blob/output/github-contribution-grid-snake.svg)
 
