@@ -17,11 +17,12 @@
 Essas são algumas das tecnologias que uso no dia a dia
 
 <div align="center">
- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
- <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
- <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">      
- <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="100" title="Lua">      
+ <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="JavaScript">      
+ <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" title="Node.js">      
+ <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="HTML5">      
+ <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="CSS3">      
+ <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" title="Python">
 </div>
 
 
