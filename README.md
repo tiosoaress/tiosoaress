@@ -52,10 +52,6 @@ Essas são algumas das tecnologias que uso no dia a dia
 npx tiosoares
 ````
 
-## 🎶 Ouvindo...
-
-                                                                    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12146821908\&cover_image=true\&theme=default\&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12146821908&redirect=true)
-
 ## :speech_balloon: Vamos conversar
 
 Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
@@ -71,5 +67,5 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 
 #
 
-[![Snake animation](https://github.com/tiosoaress/t/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/tiosoaress/t/blob/output/github-contribution-grid-snake.svg)
 
