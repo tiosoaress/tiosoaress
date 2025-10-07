@@ -1,71 +1,48 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=016fd2&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=016fd2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Isaac+Soares;I'm+21+years+old;I+am+from+Rio+de+Janeiro,+RJ;I+study+Computer+Science+at+IBMR;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<h1 align="center">Fala Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
-
-## 💡 Sobre mim :
- - *Me chamo Isaac Soares e sou do Rio de Janeiro* 
-
- - *Cursando Ciência da Computação no Centro Universitário IBMR* 
- 
- - *Apaixonado por Desenvolvimento Web, com foco em Back End 💻* 
- 
- - *Amante da tecnologia e de compartilhar conhecimento* 
-
-
-## 🔮 Minha Stack
-Essas são algumas das tecnologias que uso no dia a dia
-
-<div align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="100" title="Lua">      
- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="JavaScript">      
- <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" title="Node.js">      
- <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="HTML5">      
- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="CSS3">      
- <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" title="Python">
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiosoaress&show_icons=true&count_private=true&hide_border=true&title_color=016fd2&icon_color=016fd2&text_color=c9d1d9&bg_color=0d1117" alt="Isaac Soares github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiosoaress&layout=compact&hide_border=true&title_color=016fd2&text_color=016fd2&bg_color=0d1117" />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiosoaress&bg_color=000000&color=016fd2&line=0077e9&point=84beff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📈 Estatísticas
 
-<div align="center">
-  <a href="https://github.com/tiosoaress">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiosoaress&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiosoaress&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-
-## 🔥 Meus repos favoritos
-
-<div align="center">
- <a href="https://github.com/tiosoaress">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiosoaress&repo=MidNight&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/tiosoaress">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiosoaress&repo=AmericaGG&theme=react&hide_border=true" />
-</a>
-</div>
+<div align="center">  
+<a href="https://www.instagram.com/tiosoares/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
  
-## 🍻 Conecte-se comigo
-
-```bash
-# abra seu terminal e digite o comando: 
+### Main skills:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
  
-npx tiosoares
-````
+ 
+### Tools:
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+ 
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
-## :speech_balloon: Vamos conversar
-
-Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
+  
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-<a href="https://twitter.com/tiosoaress" target="_blank"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
-<a href="https://github.com/tiosoaress"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
-<a href="https://instagram.com/tiosoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-<a href="mailto:soares.dll14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-<a href="https://www.twitch.tv/tiosoaress" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-</div>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tiosoaress}/count.svg" /></p> 
+<br></div>
 
-#
 
-![Snake animation](https://github.com/tiosoaress/t/blob/output/github-contribution-grid-snake.svg)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=016fd2&height=120&section=footer"/>
