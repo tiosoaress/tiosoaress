@@ -48,12 +48,12 @@ Meu nome é Isaac Soares, sou do Rio de Janeiro e atualmente curso Ciência da C
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-delta-ten-13.vercel.app/api?username=tiosoaress&show_icons=true&theme=holi&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"
+    src="https://github-readme-stats-delta-ten-13.vercel.app/api?username=tiosoaress&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"
   />
   <img 
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats-delta-ten-13.vercel.app/api/top-langs/?username=tiosoaress&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
+    src="https://github-readme-stats-delta-ten-13.vercel.app/api/top-langs/?username=tiosoaress&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
   />
 </p>
