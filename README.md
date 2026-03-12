@@ -54,6 +54,6 @@ Meu nome é Isaac Soares, sou do Rio de Janeiro e atualmente curso Ciência da C
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats-delta-ten-13.vercel.app/api/top-langs/?username=tiosoaress&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
+    src="https://github-readme-stats-delta-ten-13.vercel.app/api/top-langs/?username=tiosoaress&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
   />
 </p>
