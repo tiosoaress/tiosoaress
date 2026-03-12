@@ -2,8 +2,8 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Roda a cada 6 horas
-  workflow_dispatch:          # Permite execução manual
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -19,24 +19,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update GitHub Stats via github-readme-stats
+      - name: Update stats
         env:
           GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
-        run: |
-          echo "Stats atualizado em: $(date)" >> stats_log.txt
+        run: echo "Stats atualizado em $(date)" >> stats_log.txt
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: tiosoaress
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
-
-      - name: Commit and Push changes
+      - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update github stats and snake animation [skip ci]"
-          file_pattern: dist/ stats_log.txt
+          commit_message: "chore: update github stats [skip ci]"
