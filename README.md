@@ -48,7 +48,7 @@ Meu nome é Isaac Soares, sou do Rio de Janeiro e atualmente curso Ciência da C
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://tiosoaress-github-readme-stats.vercel.app/api?username=tiosoaress&show_icons=true&theme=holi&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"
+    src="github-readme-stats-delta-ten-13.vercel.app/api?username=tiosoaress&show_icons=true&theme=holi&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"
   />
   <img 
     align="left" 
