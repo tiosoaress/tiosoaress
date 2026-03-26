@@ -1,5 +1,4 @@
 name: Update GitHub Stats
-
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -7,14 +6,27 @@ on:
   push:
     branches:
       - main
-
 jobs:
   update-stats:
     name: Update README Stats
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Purge Stats Cache
+        run: |
+          curl -s "https://github-readme-stats-eta-lemon.vercel.app/api?username=tiosoaress&cache_bust=$(date +%s)" > /dev/null
+          curl -s "https://github-readme-stats-eta-lemon.vercel.app/api/top-langs/?username=tiosoaress&cache_bust=$(date +%s)" > /dev/null
+          echo "Cache purged successfully!"
+
+      - name: Update README timestamp
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          sed -i "s/<!-- last-update:.*-->/<!-- last-update: $(date -u '+%Y-%m-%d %H:%M:%S UTC') -->/" README.md
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update stats [$(date -u '+%Y-%m-%d %H:%M')]"
+          git push
