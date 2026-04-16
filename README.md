@@ -17,7 +17,6 @@ Meu nome é Isaac Soares, sou do Rio de Janeiro e atualmente curso Ciência da C
     />
   </a>
 </p>
-
 ### 🤖 Linguagens e Tecnologias
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
@@ -32,7 +31,6 @@ Meu nome é Isaac Soares, sou do Rio de Janeiro e atualmente curso Ciência da C
 <img align="left" alt="Lua" title="Lua" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
 <br/><br/>
-
 ### 📊 Estatísticas
 <p>
   <img 
