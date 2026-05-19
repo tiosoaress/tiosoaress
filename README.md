@@ -27,56 +27,24 @@ Meu nome é Isaac Soares, sou do Rio de Janeiro e atualmente curso Ciência da C
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img 
-    alt="HTML"
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-  />
+  <img alt="HTML" title="HTML" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-  <img 
-    alt="CSS" 
-    title="CSS"
-    width="40px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-  />
+  <img alt="CSS" title="CSS" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-  <img 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="40px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-  />
+  <img alt="JavaScript" title="JavaScript" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-  <img 
-    alt="TypeScript" 
-    title="TypeScript"
-    width="40px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-  />
+  <img alt="TypeScript" title="TypeScript" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
-  <img 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  />
+  <img alt="Python" title="Python" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-  <img 
-    alt="Lua" 
-    title="Lua"
-    width="40px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
-  />
+  <img alt="Lua" title="Lua" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
 </p>
-
-<br clear="left"/>
 
 ---
 
@@ -84,47 +52,12 @@ Meu nome é Isaac Soares, sou do Rio de Janeiro e atualmente curso Ciência da C
 
 <p align="left">
   <img 
-    alt="GitHub Stats" 
     height="200"
-    style="padding-right: 10px;" 
     src="https://github-readme-stats-eta-lemon.vercel.app/api?username=tiosoaress&show_icons=true&theme=holi&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"
   />
 
   <img 
-    alt="Top Languages" 
     height="200"
     src="https://github-readme-stats-eta-lemon.vercel.app/api/top-langs/?username=tiosoaress&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
   />
-</p>
-
-<br clear="left"/>
-
----
-
-### 🌐 Redes Sociais
-
-<p align="left">
-  <a href="https://github.com/tiosoaress">
-    <img 
-      alt="GitHub" 
-      title="GitHub"
-      src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/">
-    <img 
-      alt="LinkedIn" 
-      title="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/">
-    <img 
-      alt="Instagram" 
-      title="Instagram"
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-  </a>
 </p>
