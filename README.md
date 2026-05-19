@@ -26,25 +26,27 @@ Meu nome é Isaac Soares, sou do Rio de Janeiro e atualmente curso Ciência da C
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="left">
-  <img alt="HTML" title="HTML" width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 
-  <img alt="CSS" title="CSS" width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
-  <img alt="JavaScript" title="JavaScript" width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 
-  <img alt="TypeScript" title="TypeScript" width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 
-  <img alt="Python" title="Python" width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Python" title="Python" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
-  <img alt="Lua" title="Lua" width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-</p>
+<img align="left" alt="Lua" title="Lua" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
+
+<br/>
+<br/>
+<br/>
 
 ---
 
@@ -52,12 +54,12 @@ Meu nome é Isaac Soares, sou do Rio de Janeiro e atualmente curso Ciência da C
 
 <p align="left">
   <img 
-    height="200"
+    height="200" 
     src="https://github-readme-stats-eta-lemon.vercel.app/api?username=tiosoaress&show_icons=true&theme=holi&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"
   />
 
   <img 
-    height="200"
+    height="200" 
     src="https://github-readme-stats-eta-lemon.vercel.app/api/top-langs/?username=tiosoaress&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
   />
 </p>
