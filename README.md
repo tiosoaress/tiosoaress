@@ -326,15 +326,25 @@ Developing and evolving internal software platforms focused on business operatio
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiosoaress&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=6366F1" />
+<img
+width="49%"
+src="https://github-readme-stats-eta-lemon.vercel.app/api?username=tiosoaress&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=6366F1"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiosoaress&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+<img
+width="37%"
+src="https://github-readme-stats-eta-lemon.vercel.app/api/top-langs/?username=tiosoaress&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
+/>
 
-<br>
+<br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=tiosoaress&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img
+width="70%"
+src="https://streak-stats.demolab.com?user=tiosoaress&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+/>
 
 </div>
+
 
 ---
 
