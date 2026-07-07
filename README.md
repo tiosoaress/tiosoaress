@@ -30,11 +30,21 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=tiosoaress&label=PROFILE+VIEWS&color=6d28d9&style=flat-square" />
+
 <a href="https://github.com/tiosoaress?tab=followers">
-  <img src="https://img.shields.io/github/followers/tiosoaress?label=FOLLOWERS&style=flat-square&color=4f46e5" />
+  <img
+    alt="Seguidores"
+    title="Me siga no GitHub"
+    src="https://custom-icon-badges.demolab.com/github/followers/tiosoaress?color=6366f1&labelColor=312e81&style=flat-square&logo=github&label=SEGUIDORES&logoColor=white"
+  />
 </a>
+
 <a href="https://github.com/tiosoaress?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/tiosoaress?affiliations=OWNER&label=TOTAL%20STARS&style=flat-square&color=7c3aed" />
+  <img
+    alt="Total de estrelas"
+    title="Total de estrelas GitHub"
+    src="https://custom-icon-badges.demolab.com/github/stars/tiosoaress?color=7c3aed&style=flat-square&labelColor=4c1d95&logo=star&label=ESTRELAS"
+  />
 </a>
 
 </div>
@@ -164,7 +174,9 @@ An engineering productivity system created to centralize internal tools, operati
 | **Impact**      | Reduces manual work and standardizes development operations |
 | **Repository**  | Private / Internal                                          |
 
-RPTools is designed around a simple principle: repetitive technical work should become a productized workflow. The platform organizes engineering utilities into a structured environment with clear actions, readable descriptions, controlled permissions, and reusable automation.
+RPTools is designed around a simple principle: repetitive technical work should become a productized workflow.
+
+The platform organizes engineering utilities into a structured environment with clear actions, readable descriptions, controlled permissions, and reusable automation.
 
 </details>
 
@@ -328,12 +340,12 @@ Developing and evolving internal software platforms focused on business operatio
 
 <img
 width="49%"
-src="https://github-readme-stats-eta-lemon.vercel.app/api?username=tiosoaress&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=6366F1"
+src="https://github-readme-stats-eta-lemon.vercel.app/api?username=tiosoaress&show_icons=true&theme=holi&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"
 />
 
 <img
 width="37%"
-src="https://github-readme-stats-eta-lemon.vercel.app/api/top-langs/?username=tiosoaress&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
+src="https://github-readme-stats-eta-lemon.vercel.app/api/top-langs/?username=tiosoaress&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
 />
 
 <br><br>
@@ -344,7 +356,6 @@ src="https://streak-stats.demolab.com?user=tiosoaress&hide_border=true&backgroun
 />
 
 </div>
-
 
 ---
 
