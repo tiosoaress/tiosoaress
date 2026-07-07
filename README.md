@@ -388,9 +388,19 @@ src="https://streak-stats.demolab.com?user=tiosoaress&hide_border=true&backgroun
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiosoaress/tiosoaress/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiosoaress/tiosoaress/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/tiosoaress/tiosoaress/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./dist/github-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./dist/github-snake.svg"
+  >
+  <img
+    width="100%"
+    alt="GitHub contribution snake animation"
+    src="./dist/github-snake.svg"
+  >
 </picture>
 
 </div>
