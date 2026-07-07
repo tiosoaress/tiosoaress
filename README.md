@@ -359,11 +359,15 @@ src="https://streak-stats.demolab.com?user=tiosoaress&hide_border=true&backgroun
 
 ---
 
-## GitHub Trophies
+## 🔗 GitHub Trophies
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=tiosoaress&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+<img
+  width="100%"
+  src="https://github-profile-trophy-winning.vercel.app/?username=tiosoaress&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
