@@ -295,22 +295,6 @@ Desenvolvimento e evolução de plataformas internas de software voltadas a oper
 </a>
 </p>
 
-### NPTEL
-
-<p align="left">
-<a href="https://nptel.ac.in/">
-<img src="https://img.shields.io/badge/NPTEL-Trilha%20de%20Ciencia%20da%20Computacao-4C1D95?style=for-the-badge&logo=academia&logoColor=white%22" />
-</a>
-</p>
-
-### Cisco
-
-<p align="left">
-<a href="https://www.netacad.com/">
-<img src="https://img.shields.io/badge/Cisco-Trilha%20de%20Redes%20%26%20Tecnologia-312E81?style=for-the-badge&logo=cisco&logoColor=white%22" />
-</a>
-</p>
-
 ---
 
 ## Perfis de programação
@@ -383,30 +367,6 @@ alt="Troféus do GitHub"
 
 ---
 
-## Snake de contribuições
-
-<div align="center">
-
-<picture>
-<source
-    media="(prefers-color-scheme: dark)"
-    srcset="./dist/github-snake-dark.svg"
->
-<source
-    media="(prefers-color-scheme: light)"
-    srcset="./dist/github-snake.svg"
->
-<img
-    width="100%"
-    alt="Animação das contribuições do GitHub"
-    src="./dist/github-snake.svg"
->
-</picture>
-
-</div>
-
----
-
 ## Foco atual
 
 ```yaml
@@ -445,17 +405,8 @@ aberto_a:
 
 <div align="center">
 
-<a href="mailto:isaac.soares@rpeotta.com.br">
+<a href="mailto:devsoaress@rpeotta.com.br">
 <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" />
-</a>
-<a href="https://www.linkedin.com/search/results/people/?keywords=Isaac%20Soares">
-<img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/tiosoaress">
-<img src="https://img.shields.io/badge/GitHub-581C87?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/tiosoaress?tab=repositories">
-<img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
