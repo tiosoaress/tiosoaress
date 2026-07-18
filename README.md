@@ -399,19 +399,6 @@ aberto_a:
   - Desafios de Produto de Alto Impacto
 ```
 
----
-
-## Contato
-
-<div align="center">
-
-<a href="mailto:devsoaress@rpeotta.com.br">
-<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" />
-</a>
-
-</div>
-
----
 
 <div align="center">
 
