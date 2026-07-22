@@ -18,7 +18,4 @@ architecture = Scalable systems, clean architecture, modular code
 engineering = Performance optimization, refactoring, maintainability
 products = Internal platforms, employee portals, management systems
 
-; most professional projects live in private repositories
-; public repositories reflect my approach to software architecture
-; focused on building scalable, organized and maintainable products
 #+end_src
