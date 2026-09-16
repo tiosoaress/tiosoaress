@@ -5,13 +5,16 @@ role = Software Engineer, Full-stack Developer
 
 [languages]
 primary = TypeScript, JavaScript, Python
-database = SQL, PostgreSQL
+query = SQL
 
 [stack]
 frontend = React, Vite, HTML, CSS
-backend = Node.js, Python, Supabase, PostgreSQL
-infra = Docker, Cloudflare, Netlify, Azure
-tooling = Git, GitHub, REST APIs, SSE
+backend = Node.js, Python
+database = PostgreSQL, Supabase
+devops = Docker
+cloud = Azure, Cloudflare, Netlify
+tooling = Git, GitHub
+apis = REST, SSE
 
 [focus]
 architecture = Scalable systems, clean architecture, modular code
