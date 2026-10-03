@@ -1,4 +1,4 @@
-#+begin_src toml
+```toml
 [identity]
 name = "Isaac Soares"
 role = ["Software Engineer", "Full-stack Developer"]
@@ -20,4 +20,4 @@ apis = ["REST", "SSE"]
 architecture = ["Scalable systems", "Clean architecture", "Modular code"]
 engineering = ["Performance optimization", "Refactoring", "Maintainability"]
 products = ["Internal platforms", "Employee portals", "Management systems"]
-#+end_src
+```
