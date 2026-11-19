@@ -82,11 +82,6 @@ Atuo em diferentes camadas do desenvolvimento de software, desde a arquitetura e
   />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg"/>
-  <img alt="Contribuições no GitHub" src="./dist/github-snake.svg"/>
-</picture>
 
 ---
 
